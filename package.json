@@ -2,6 +2,14 @@
   "name": "node-farm",
   "version": "1.0.0",
   "description": "Learning node.js",
+  "homepage": "https://github.com/wen-77/node-farm#readme",
+  "bugs": {
+    "url": "https://github.com/wen-77/node-farm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wen-77/node-farm.git"
+  },
   "license": "ISC",
   "author": "Wendy",
   "type": "commonjs",
